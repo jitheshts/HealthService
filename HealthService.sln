@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{7655A590-39C6-474F-94C4-B9991F7E68E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C54DE3CC-31FB-4936-A7A4-5FA5000695CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presantation", "Presantation", "{BC3CFC02-45F3-49E8-ADFF-7C97E8380FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthService.Core", "HealthService.Core\HealthService.Core.csproj", "{94EDFB93-551A-4BDB-AF73-84EB1B8905C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthService.Services", "HealthService.Services\HealthService.Services.csproj", "{3B061230-4E0B-4103-B105-BAF7609270BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthService.Data", "HealthService.Data\HealthService.Data.csproj", "{72E6AF1A-3DBF-4387-ABB9-8345B92B734E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthService.Dto", "HealthService.Dto\HealthService.Dto.csproj", "{06C0777A-7C1F-4AC5-B075-A1FE5A422512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthService.Logging", "HealthService.Logging\HealthService.Logging.csproj", "{CBCF3539-BF93-491C-B6A1-D03836FC7CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthService.Web", "HealthService.Web\HealthService.Web.csproj", "{FE476008-2EEB-4265-842B-F2B3C04A635A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94EDFB93-551A-4BDB-AF73-84EB1B8905C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EDFB93-551A-4BDB-AF73-84EB1B8905C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EDFB93-551A-4BDB-AF73-84EB1B8905C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EDFB93-551A-4BDB-AF73-84EB1B8905C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B061230-4E0B-4103-B105-BAF7609270BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B061230-4E0B-4103-B105-BAF7609270BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B061230-4E0B-4103-B105-BAF7609270BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B061230-4E0B-4103-B105-BAF7609270BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E6AF1A-3DBF-4387-ABB9-8345B92B734E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E6AF1A-3DBF-4387-ABB9-8345B92B734E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E6AF1A-3DBF-4387-ABB9-8345B92B734E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E6AF1A-3DBF-4387-ABB9-8345B92B734E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C0777A-7C1F-4AC5-B075-A1FE5A422512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C0777A-7C1F-4AC5-B075-A1FE5A422512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C0777A-7C1F-4AC5-B075-A1FE5A422512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C0777A-7C1F-4AC5-B075-A1FE5A422512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCF3539-BF93-491C-B6A1-D03836FC7CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCF3539-BF93-491C-B6A1-D03836FC7CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCF3539-BF93-491C-B6A1-D03836FC7CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCF3539-BF93-491C-B6A1-D03836FC7CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE476008-2EEB-4265-842B-F2B3C04A635A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE476008-2EEB-4265-842B-F2B3C04A635A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE476008-2EEB-4265-842B-F2B3C04A635A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE476008-2EEB-4265-842B-F2B3C04A635A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{94EDFB93-551A-4BDB-AF73-84EB1B8905C5} = {7655A590-39C6-474F-94C4-B9991F7E68E0}
+		{3B061230-4E0B-4103-B105-BAF7609270BE} = {7655A590-39C6-474F-94C4-B9991F7E68E0}
+		{72E6AF1A-3DBF-4387-ABB9-8345B92B734E} = {C54DE3CC-31FB-4936-A7A4-5FA5000695CC}
+		{06C0777A-7C1F-4AC5-B075-A1FE5A422512} = {C54DE3CC-31FB-4936-A7A4-5FA5000695CC}
+		{CBCF3539-BF93-491C-B6A1-D03836FC7CB2} = {C54DE3CC-31FB-4936-A7A4-5FA5000695CC}
+		{FE476008-2EEB-4265-842B-F2B3C04A635A} = {BC3CFC02-45F3-49E8-ADFF-7C97E8380FBA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://semihbas.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HealthService.Core\\HealthService.Core.csproj
+		SccProjectTopLevelParentUniqueName1 = HealthService.sln
+		SccProjectName1 = HealthService.Core
+		SccLocalPath1 = HealthService.Core
+		SccProjectUniqueName2 = HealthService.Services\\HealthService.Services.csproj
+		SccProjectTopLevelParentUniqueName2 = HealthService.sln
+		SccProjectName2 = HealthService.Services
+		SccLocalPath2 = HealthService.Services
+		SccProjectUniqueName3 = HealthService.Data\\HealthService.Data.csproj
+		SccProjectTopLevelParentUniqueName3 = HealthService.sln
+		SccProjectName3 = HealthService.Data
+		SccLocalPath3 = HealthService.Data
+		SccProjectUniqueName4 = HealthService.Dto\\HealthService.Dto.csproj
+		SccProjectTopLevelParentUniqueName4 = HealthService.sln
+		SccProjectName4 = HealthService.Dto
+		SccLocalPath4 = HealthService.Dto
+		SccProjectUniqueName5 = HealthService.Logging\\HealthService.Logging.csproj
+		SccProjectTopLevelParentUniqueName5 = HealthService.sln
+		SccProjectName5 = HealthService.Logging
+		SccLocalPath5 = HealthService.Logging
+		SccProjectUniqueName6 = HealthService.Web\\HealthService.Web.csproj
+		SccProjectTopLevelParentUniqueName6 = HealthService.sln
+		SccProjectName6 = HealthService.Web
+		SccLocalPath6 = HealthService.Web
+	EndGlobalSection
+EndGlobal

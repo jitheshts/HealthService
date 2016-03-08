@@ -1,0 +1,15 @@
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\HealthService.Logging.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\HealthService.Logging.pdb
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\HealthService.Core.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\NLog.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\EntityFramework.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\HealthService.Core.pdb
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\NLog.xml
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\bin\Debug\EntityFramework.xml
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\obj\Debug\HealthService.Logging.csprojResolveAssemblyReference.cache
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\obj\Debug\HealthService.Logging.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Logging\obj\Debug\HealthService.Logging.pdb

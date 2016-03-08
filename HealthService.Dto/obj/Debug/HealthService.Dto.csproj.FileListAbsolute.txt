@@ -1,0 +1,4 @@
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Dto\bin\Debug\HealthService.Dto.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Dto\bin\Debug\HealthService.Dto.pdb
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Dto\obj\Debug\HealthService.Dto.dll
+c:\Users\smh_b\Documents\Visual Studio 2015\Projects\HealthService\HealthService.Dto\obj\Debug\HealthService.Dto.pdb
